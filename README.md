@@ -1,1 +1,0 @@
-# group-b-project
