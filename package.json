@@ -1,0 +1,19 @@
+{
+  "name": "group-b-project",
+  "version": "1.0.0",
+  "description": "rebuild of three webpages",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msimbo/group-b-project.git"
+  },
+  "author": "group-b",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msimbo/group-b-project/issues"
+  },
+  "homepage": "https://github.com/msimbo/group-b-project#readme"
+}
